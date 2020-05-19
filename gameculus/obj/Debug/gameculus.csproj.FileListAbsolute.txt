@@ -1,0 +1,7 @@
+C:\Users\luzzi\source\repos\gameculus\gameculus\bin\Debug\gameculus.exe.config
+C:\Users\luzzi\source\repos\gameculus\gameculus\bin\Debug\gameculus.exe
+C:\Users\luzzi\source\repos\gameculus\gameculus\bin\Debug\gameculus.pdb
+C:\Users\luzzi\source\repos\gameculus\gameculus\obj\Debug\gameculus.csprojAssemblyReference.cache
+C:\Users\luzzi\source\repos\gameculus\gameculus\obj\Debug\gameculus.csproj.CoreCompileInputs.cache
+C:\Users\luzzi\source\repos\gameculus\gameculus\obj\Debug\gameculus.exe
+C:\Users\luzzi\source\repos\gameculus\gameculus\obj\Debug\gameculus.pdb
