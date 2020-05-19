@@ -32,13 +32,13 @@ namespace gameculus
                     break;
                 case CHOICES.MODERATE:
                     m_iMax = 300;
-                    m_iMin = -300;
+                    m_iMin = 1;
                     m_sText = "soustraction";
                     m_sOperator = "-";
                     break;
                 case CHOICES.DIFFICULT:
-                    m_iMax = 20;
-                    m_iMin = 0;
+                    m_iMax = 10;
+                    m_iMin = 1;
                     m_sText = "multiplication";
                     m_sOperator = "x";
                     break;
